@@ -500,13 +500,13 @@
     <repository>
     <id>releases</id>
     <name>Releases</name>
-    <url>http://3.87.127.180:8081/repository/maven-releases/</url>
+    <url>http://54.87.52.179:8081/repository/maven-releases/</url>
     </repository>
 
     <snapshotRepository>
     <id>snapshots</id>
     <name>Snapshots</name>
-    <url>http://3.87.127.180:8081/repository/maven-snapshots/</url>
+    <url>http://54.87.52.179:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
 
   </distributionManagement>
