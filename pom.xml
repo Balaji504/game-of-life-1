@@ -500,7 +500,7 @@
     <repository>
     <id>releases</id>
     <name>Releases</name>
-    <url>http://3.95.18.124:8081/repository/maven-releases/</url>
+    <url>http://100.24.68.99:8081/repository/gameoflife-release/</url>
     </repository>
 
     <snapshotRepository>
